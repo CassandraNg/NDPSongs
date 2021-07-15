@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NDP Songs</string>
+    <string-array name="spinnerYears">
+        <item>2002</item>
+        <item>2003</item>
+    </string-array>
+</resources>
